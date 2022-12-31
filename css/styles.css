@@ -1,0 +1,38 @@
+div.card{
+  border:0;
+  border-radius: 0;
+  width: 100%;
+  background-color: #ba1c1c;
+}
+div.container-fluid{
+  padding: 0;
+}
+a.text{
+  font-family: 'Inknut Antiqua', serif;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #edb51a;
+  color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid #edb51a;
+  text-decoration: none;
+  padding: 5px 20px;
+}
+a.text:hover{
+  color: #ba1c1c;
+}
+html, body{
+    height: 100%;
+}
+#Content{
+    height: 100%;
+    width: 100%;
+}
+img.size{
+  width: 450px;
+  height: 549px;
+}
+div.first{
+  padding-bottom: 20px;
+  margin-bottom: 3px;
+}
