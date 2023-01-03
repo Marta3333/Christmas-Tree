@@ -7,7 +7,7 @@ body.background{
 }
 div.container{
   padding: 0;
-  max-height: 657px;
+  min-height: 657px;
   text-align:center;
   display:table;
 }
